@@ -1,3 +1,42 @@
+## Usage Restrictions Without the prior written permission of this entity, no individual or organization may:
+
+Copy, reproduce, excerpt, modify, or tamper with the original content or title;
+
+Distort, fragment, or alter the original meaning of the content in a way that damages the integrity of the work;
+
+Use the content for commercial purposes (including but not limited to advertising, paid reading, product sales, etc.);
+
+Distribute, rent, adapt, or create derivative works in any way;
+
+By using technical means to circumvent content access restrictions or delete copyright information.
+
+## Authorized Reprint Guidelines For non-commercial reprints, the following conditions must be met:
+
+Clearly indicate the author [your name/pen name] and source [website/platform name and original link];
+
+Maintain the integrity of the content, and do not add, delete, or modify key information;
+
+Include the original copyright statement or a link to it prominently at the beginning or end of the reprinted article;
+
+Obtain confirmation and permission from this entity before reprinting via [email/contact form], etc.
+
+## Liability for Infringement
+This entity reserves the right to pursue legal action against any violation of this statement or infringement of its intellectual property rights, including but not limited to demanding the immediate removal of infringing content, a public apology, and compensation for economic losses and reasonable expenses incurred in protecting its rights (such as attorney fees, investigation and evidence collection fees, etc.).
+
+## Exceptions
+This statement does not cover third-party authorized content cited through this platform; the copyright of such content belongs to the original author.
+
+Citing, commenting on, or researching content based on the "fair use" principle must comply with legal regulations and indicate the source.
+
+## Statement Updates
+This entity has the right to update this copyright statement at any time. The updated statement will take effect upon publication on this page.
+
+Contact Information:
+
+For any questions or comments, or if you would like assistance:
+
+My email: v6582374@gmail.com
+
 ## 使用限制
 未经本主体事先书面许可，任何个人或组织不得：
 
@@ -36,4 +75,3 @@
 联系方式：  
 如果有任何疑问或者意见，或者想寻求帮助  
 我的邮箱：v6582374@gmail.com
-
